@@ -1,6 +1,6 @@
 # Climbing-the-Leaderboard
 
-My solution to the Hackkerrank Climbing the Leaderboard challange in C++17.
+My solution to the [Hackkerrank Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) challange in C++17.
 
 The solution2.cpp contains a correctly working solution but it can not solve the problem in given time.
 
